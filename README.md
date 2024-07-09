@@ -2,10 +2,6 @@
 
 Foro Hub es una aplicación de foro diseñada para facilitar la comunicación y discusión entre usuarios. Esta aplicación permite a los usuarios crear tópicos, responder a los mismos y participar en discusiones.
 
-<p align="center">
-    <img src="https://github.com/Orliluq/ForoHub/assets/122529721/952e8461-2eac-4c28-8fd0-bb676e672528"/>
-</p>
-
 
 ## Características ⚙️
 
@@ -50,9 +46,6 @@ cd ForoHub
 - Configuración
 - Base de datos: MySQL 📈
 
-<p align="center">
-    <img src="https://github.com/Orliluq/ForoHub/assets/122529721/53acb33d-6597-4700-822e-b87425f69383"/>
-</p>
 
 Este proyecto está configurado para usar una base de datos H2 en memoria por defecto. Puedes cambiar la configuración de la base de datos en el archivo application.properties.
 
